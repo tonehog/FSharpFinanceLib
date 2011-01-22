@@ -1,0 +1,6 @@
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\bin\Debug\ImportFinanceData.XML
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\bin\Debug\ImportFinanceData.exe
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\bin\Debug\ImportFinanceData.pdb
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\obj\x86\Debug\ImportFinanceData.exe
+C:\Users\tonehog\Documents\My Dropbox\Projects\Visual Studio 2010\Projects\ImportFinanceData\ImportFinanceData\obj\x86\Debug\ImportFinanceData.pdb

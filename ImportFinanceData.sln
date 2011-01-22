@@ -1,0 +1,135 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ImportFinanceData", "ImportFinanceData\ImportFinanceData.fsproj", "{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FinanceImportLib", "FinanceImportLib\FinanceImportLib.fsproj", "{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{53998EBC-713A-4A3B-BD7F-A67DCA758E6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "quantmod", "quantmod", "{DAE63F24-B9B0-4D90-87B0-CAE49FECA4A7}"
+	ProjectSection(SolutionItems) = preProject
+		FinanceImportLib\Sources\R-Modules\quantmod\CHANGES = FinanceImportLib\Sources\R-Modules\quantmod\CHANGES
+		FinanceImportLib\Sources\R-Modules\quantmod\DESCRIPTION = FinanceImportLib\Sources\R-Modules\quantmod\DESCRIPTION
+		FinanceImportLib\Sources\R-Modules\quantmod\NAMESPACE = FinanceImportLib\Sources\R-Modules\quantmod\NAMESPACE
+		FinanceImportLib\Sources\R-Modules\quantmod\svn-commit.2.tmp = FinanceImportLib\Sources\R-Modules\quantmod\svn-commit.2.tmp
+		FinanceImportLib\Sources\R-Modules\quantmod\svn-commit.tmp = FinanceImportLib\Sources\R-Modules\quantmod\svn-commit.tmp
+		FinanceImportLib\Sources\R-Modules\quantmod\WISHLIST = FinanceImportLib\Sources\R-Modules\quantmod\WISHLIST
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "R-Modules", "R-Modules", "{C031D0C3-F638-4D5B-B3CC-6AC117C18764}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "R", "R", "{9634F965-69CC-4121-9096-81660D3F270C}"
+	ProjectSection(SolutionItems) = preProject
+		FinanceImportLib\Sources\R-Modules\quantmod\R\add_Last.R = FinanceImportLib\Sources\R-Modules\quantmod\R\add_Last.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addAroon.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addAroon.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addChaikin.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addChaikin.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addCLV.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addCLV.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addCMF.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addCMF.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addCMO.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addCMO.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addEMV.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addEMV.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addKST.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addKST.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addMFI.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addMFI.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addOBV.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addOBV.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addSMI.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addSMI.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addTA.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addTA.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addTDI.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addTDI.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addVo.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addVo.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addVolatility.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addVolatility.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addWPR.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addWPR.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\addZigZag.R = FinanceImportLib\Sources\R-Modules\quantmod\R\addZigZag.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\adjustOHLC.R = FinanceImportLib\Sources\R-Modules\quantmod\R\adjustOHLC.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\attachSymbols.R = FinanceImportLib\Sources\R-Modules\quantmod\R\attachSymbols.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\axTicksByTime2.R = FinanceImportLib\Sources\R-Modules\quantmod\R\axTicksByTime2.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\buildModel.methods.R = FinanceImportLib\Sources\R-Modules\quantmod\R\buildModel.methods.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\buildModel.R = FinanceImportLib\Sources\R-Modules\quantmod\R\buildModel.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\chart_Series.R = FinanceImportLib\Sources\R-Modules\quantmod\R\chart_Series.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\chartSeries.chob.R = FinanceImportLib\Sources\R-Modules\quantmod\R\chartSeries.chob.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\chartSeries.R = FinanceImportLib\Sources\R-Modules\quantmod\R\chartSeries.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\chob.R = FinanceImportLib\Sources\R-Modules\quantmod\R\chob.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\dropTA.R = FinanceImportLib\Sources\R-Modules\quantmod\R\dropTA.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\gainloss.R = FinanceImportLib\Sources\R-Modules\quantmod\R\gainloss.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getDividends.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getDividends.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getFinancials.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getFinancials.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getModelData.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getModelData.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getOptionChain.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getOptionChain.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getQuote.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getQuote.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getSplits.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getSplits.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getSymbols.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getSymbols.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\getSymbols.skeleton.R = FinanceImportLib\Sources\R-Modules\quantmod\R\getSymbols.skeleton.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\loadSymbols.R = FinanceImportLib\Sources\R-Modules\quantmod\R\loadSymbols.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\modelData.R = FinanceImportLib\Sources\R-Modules\quantmod\R\modelData.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\modelReturn.R = FinanceImportLib\Sources\R-Modules\quantmod\R\modelReturn.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\modelSignal.R = FinanceImportLib\Sources\R-Modules\quantmod\R\modelSignal.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\months.R = FinanceImportLib\Sources\R-Modules\quantmod\R\months.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\newTA.R = FinanceImportLib\Sources\R-Modules\quantmod\R\newTA.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\oanda.R = FinanceImportLib\Sources\R-Modules\quantmod\R\oanda.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\OHLC.transformations.R = FinanceImportLib\Sources\R-Modules\quantmod\R\OHLC.transformations.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\peak.R = FinanceImportLib\Sources\R-Modules\quantmod\R\peak.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\periodReturn.R = FinanceImportLib\Sources\R-Modules\quantmod\R\periodReturn.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\Price.transformations.R = FinanceImportLib\Sources\R-Modules\quantmod\R\Price.transformations.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\quantmod.R = FinanceImportLib\Sources\R-Modules\quantmod\R\quantmod.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\reChart.R = FinanceImportLib\Sources\R-Modules\quantmod\R\reChart.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\replot.R = FinanceImportLib\Sources\R-Modules\quantmod\R\replot.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\returnBy.R = FinanceImportLib\Sources\R-Modules\quantmod\R\returnBy.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\saveChart.R = FinanceImportLib\Sources\R-Modules\quantmod\R\saveChart.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\saveModels.R = FinanceImportLib\Sources\R-Modules\quantmod\R\saveModels.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\specifyModel.R = FinanceImportLib\Sources\R-Modules\quantmod\R\specifyModel.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\SymbolLookup.R = FinanceImportLib\Sources\R-Modules\quantmod\R\SymbolLookup.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\symbols.R = FinanceImportLib\Sources\R-Modules\quantmod\R\symbols.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\TA.R = FinanceImportLib\Sources\R-Modules\quantmod\R\TA.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\tools.R = FinanceImportLib\Sources\R-Modules\quantmod\R\tools.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\tradeLog.R = FinanceImportLib\Sources\R-Modules\quantmod\R\tradeLog.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\tradeModel.R = FinanceImportLib\Sources\R-Modules\quantmod\R\tradeModel.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\updateModel.R = FinanceImportLib\Sources\R-Modules\quantmod\R\updateModel.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\zoomChart.R = FinanceImportLib\Sources\R-Modules\quantmod\R\zoomChart.R
+		FinanceImportLib\Sources\R-Modules\quantmod\R\zzz.R = FinanceImportLib\Sources\R-Modules\quantmod\R\zzz.R
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{1A6B903E-72C6-40E9-BA83-4A0F1AFB3976}"
+	ProjectSection(SolutionItems) = preProject
+		FinanceImportLib\Sources\R-Modules\quantmod\demo\00Index = FinanceImportLib\Sources\R-Modules\quantmod\demo\00Index
+		FinanceImportLib\Sources\R-Modules\quantmod\demo\chartSeries.R = FinanceImportLib\Sources\R-Modules\quantmod\demo\chartSeries.R
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Debug|x86.ActiveCfg = Debug|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Debug|x86.Build.0 = Debug|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Release|Any CPU.ActiveCfg = Release|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Release|Mixed Platforms.Build.0 = Release|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Release|x86.ActiveCfg = Release|x86
+		{07EBF82E-A49D-4BAF-90C2-7D33C15DEAC9}.Release|x86.Build.0 = Release|x86
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8B51ADEC-7EEC-4FCC-B8C9-5597D408B769}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C031D0C3-F638-4D5B-B3CC-6AC117C18764} = {53998EBC-713A-4A3B-BD7F-A67DCA758E6C}
+		{9634F965-69CC-4121-9096-81660D3F270C} = {DAE63F24-B9B0-4D90-87B0-CAE49FECA4A7}
+		{1A6B903E-72C6-40E9-BA83-4A0F1AFB3976} = {DAE63F24-B9B0-4D90-87B0-CAE49FECA4A7}
+		{DAE63F24-B9B0-4D90-87B0-CAE49FECA4A7} = {C031D0C3-F638-4D5B-B3CC-6AC117C18764}
+	EndGlobalSection
+EndGlobal
